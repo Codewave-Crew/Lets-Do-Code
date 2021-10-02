@@ -1,6 +1,6 @@
 ![header](https://github.com/Codewave-Crew/Lets-Do-Code/blob/main/_resources/cover.jpg)  
 
-# Let's do code on Hello-World in every Programming language.  
+# Let's do code on Hello-World / Iteration in every Programming language.  
 
 ## Steps to follow :scroll:
 
@@ -13,8 +13,8 @@ You can get your own fork/copy of [Lets-Do-Code](https://github.com/Codewave-Cre
 
  [![Fork Button](https://github.com/Codewave-Crew/Lets-Do-Code/blob/main/_resources/fork.jpg)](https://github.com/Codewave-Crew/Lets-Do-Code)
 
-### 3. Add a Hello-World in any Language you like :computer: 
-Once you have forked the repo, add your Hello-World in the language folder :file_folder: in the main branch, if language folder doesn't exist you can make folder :file_folder: and add your program in it.  
+### 3. Add a Hello-World / Iteration in any Language you like :computer: 
+Once you have forked the repo, add your Hello-World / Iteration in the language folder :file_folder: in the main branch, if language folder doesn't exist you can make folder :file_folder: and add your program in it.  
 
 You can find new languages in this [Programming Language List](https://en.wikipedia.org/wiki/List_of_programming_languages).  
 
