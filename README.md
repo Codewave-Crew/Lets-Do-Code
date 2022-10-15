@@ -1,11 +1,16 @@
-![header](https://github.com/Codewave-Crew/Lets-Do-Code/blob/main/_resources/cover.jpg)  
+![header](https://github.com/Codewave-Crew/Lets-Do-Code/blob/main/_resources/cover22.jpg)  
 
-# Let's do code on Hello-World / Iteration in every Programming language.  
+[![GitHub issues](https://img.shields.io/github/issues/Codewave-Crew/Lets-Do-Code?style=for-the-badge&color=important)](https://github.com/Codewave-Crew/Lets-Do-Code/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Codewave-Crew/Lets-Do-Code?style=for-the-badge&color=blue)](https://github.com/Codewave-Crew/Lets-Do-Code/network)
+[![GitHub stars](https://img.shields.io/github/stars/Codewave-Crew/Lets-Do-Code?style=for-the-badge&color=yellow)](https://github.com/Codewave-Crew/Lets-Do-Code/stargazers)  
+
+# Hacktoberfest 2022
+## Let's do code in every Programming Language.  
 
 ## Steps to follow :scroll:
 
 ### 1. Register for Hacktoberfest
-You can register from [here](https://hacktoberfest.digitalocean.com).
+You can register from [here](https://hacktoberfest.com).
 
 ### 2. Fork it :fork_and_knife:
 
@@ -13,8 +18,8 @@ You can get your own fork/copy of [Lets-Do-Code](https://github.com/Codewave-Cre
 
  [![Fork Button](https://github.com/Codewave-Crew/Lets-Do-Code/blob/main/_resources/fork.jpg)](https://github.com/Codewave-Crew/Lets-Do-Code)
 
-### 3. Add a Hello-World / Iteration in any Language you like :computer: 
-Once you have forked the repo, add your Hello-World / Iteration in the language folder :file_folder: in the main branch, if language folder doesn't exist you can make folder :file_folder: and add your program in it.  
+### 3. Contribute to issues in the issue section for any programming language you like :computer: 
+Once you have forked the repo, do your code in the language folder :file_folder: in the main branch, if language folder doesn't exist you can make folder :file_folder: and add your program in it.  
 
 You can find new languages in this [Programming Language List](https://en.wikipedia.org/wiki/List_of_programming_languages).  
 
