@@ -28,10 +28,14 @@ int main()
   int n;
 	cout<<"Enter number of elements to be entered in the array:"<<endl;
   cin>>n;
-  arr=new int[n];
+  int a[n];
   cout<<"Enter "<<n<<" elements to be sorted:"<<endl;
-	bogosort(a, n);
-	printf("Sorted array :\n");
-	printArray(a, n);
-	return 0;
+  for(int f=0;f<n;f++)
+  {
+      cin>>a[f];
+  }
+  bogosort(a, n);
+  printf("Sorted array :\n");
+  printArray(a, n);
+  return 0;
 }
