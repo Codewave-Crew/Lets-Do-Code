@@ -72,7 +72,7 @@ int main()
         cout<<"Enter "<<n<<" elements to be sorted:"<<endl;
         for(int f=0;f<n;f++)
         {
-        	cin>>a[f];
+        	cin>>arr[f];
         }
 	cout << "Given array is \n";
 	printArray(arr, arr_size);
