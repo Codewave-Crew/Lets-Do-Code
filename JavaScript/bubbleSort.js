@@ -27,7 +27,7 @@ const bubbleSort = (array) => {
         }
 
         if (!flag) {
-            return;
+            break;
         }
     }
     return sortedArray;
