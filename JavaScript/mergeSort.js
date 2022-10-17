@@ -1,8 +1,7 @@
 
 
-// write code for arbitrary manager
+
 function helper(arr, start, end) {
-    // leaf worker
     // arr of size 1 is already sorted.
     if (start === end) {
         return;
@@ -43,10 +42,7 @@ function helper(arr, start, end) {
         arr[i] = aux[j];
     }
 }
-/**
- * @param {list_int32} arr
- * @return {list_int32}
- */
+
 function merge_sort(arr) {
     // Write your code here.
     
