@@ -29,3 +29,11 @@ After you have completed these steps, then start contributing by checking `Help 
 [pull requests](https://github.com/Codewave-Crew/Lets-Do-Code/pulls).  
 
 ### 5. Give this Project a Star :star:  
+
+## Contributors  
+
+<a href="https://github.com/Codewave-Crew/Lets-Do-Code/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Codewave-Crew/Lets-Do-Code" />
+</a>
+
+### Thanks for contributing. It's an amazing experience to collaborate with you all!  
