@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 #define MAX 1000
 
 int main(){
@@ -15,6 +14,5 @@ int main(){
 	if(a[i] == ele) ind = i;
   if(ind == -1) printf("\nElement not found.");
   else printf("\nElement %d found at index %d",ele,ind);
-  getch();
   return 0;
 }
