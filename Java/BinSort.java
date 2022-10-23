@@ -8,9 +8,9 @@ public class BinSort {
   private float[] array;
   private int n;
 
-  BinSort(float[] arr, int count) {
+  BinSort(float[] arr, int size) {
     this.array = arr;
-    this.n = count;
+    this.n = size;
   }
 
   public void sort() {
