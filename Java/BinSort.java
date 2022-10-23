@@ -51,7 +51,7 @@ public class BinSort {
    * Driving Code Block
    */
   public static void main(String[] args) {
-    float[] arr = { (float) 0.42, (float) 0.32, (float) 0.33, (float) 0.52, (float) 0.37, (float) 0.47, (float) 0.51 };
+    float[] arr = { (float) 0.2, (float) 0.49, (float) 0.87, (float) 0.52, (float) 0.31, (float) 0.99, (float) 0.35, (float) 0.90 };
     BinSort binSort = new BinSort(arr, 7);
     binSort.sort();
     float[] sortedArr = binSort.getArray();
