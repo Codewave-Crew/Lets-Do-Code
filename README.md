@@ -1,10 +1,10 @@
-![header](https://github.com/Codewave-Crew/Lets-Do-Code/blob/main/_resources/cover22.jpg)  
+![header](https://github.com/Codewave-Crew/Lets-Do-Code/blob/main/_resources/hacktoberfest2023.png)  
 
 [![GitHub issues](https://img.shields.io/github/issues/Codewave-Crew/Lets-Do-Code?style=for-the-badge&color=important)](https://github.com/Codewave-Crew/Lets-Do-Code/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Codewave-Crew/Lets-Do-Code?style=for-the-badge&color=blue)](https://github.com/Codewave-Crew/Lets-Do-Code/network)
 [![GitHub stars](https://img.shields.io/github/stars/Codewave-Crew/Lets-Do-Code?style=for-the-badge&color=yellow)](https://github.com/Codewave-Crew/Lets-Do-Code/stargazers)  
 
-# Hacktoberfest 2022
+# Hacktoberfest 2023
 ## Let's do code in every Programming Language.  
 
 ## Steps to follow :scroll:
