@@ -1,3 +1,0 @@
-do {
-  printLine();
-} while (!atEndOfPage());
