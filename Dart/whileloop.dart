@@ -1,0 +1,3 @@
+while (!isDone()) {
+  doSomething();
+}
